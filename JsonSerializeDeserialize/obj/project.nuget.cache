@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JHzOYxeNwXFzwHKonPEkBCOv4hsmWtiAFytkG3aGXTkNgVXzxe1VZIkLe5q6kyjTVLfgqyEp7A/q5BDgCzTzQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ozdem\\source\\repos\\Arge\\JsonSerializeDeserialize\\JsonSerializeDeserialize.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ozdem\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\ozdem\source\repos\Arge\JsonSerializeDeserialize\obj\Debug\net6.0\JsonSerializeDeserialize.csproj.AssemblyReference.cache
+C:\Users\ozdem\source\repos\Arge\JsonSerializeDeserialize\obj\Debug\net6.0\JsonSerializeDeserialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozdem\source\repos\Arge\JsonSerializeDeserialize\obj\Debug\net6.0\JsonSerializeDeserialize.AssemblyInfoInputs.cache
+C:\Users\ozdem\source\repos\Arge\JsonSerializeDeserialize\obj\Debug\net6.0\JsonSerializeDeserialize.AssemblyInfo.cs
+C:\Users\ozdem\source\repos\Arge\JsonSerializeDeserialize\obj\Debug\net6.0\JsonSerializeDeserialize.csproj.CoreCompileInputs.cache
+C:\Users\ozdem\source\repos\Arge\JsonSerializeDeserialize\bin\Debug\net6.0\JsonSerializeDeserialize.exe
+C:\Users\ozdem\source\repos\Arge\JsonSerializeDeserialize\bin\Debug\net6.0\JsonSerializeDeserialize.deps.json
+C:\Users\ozdem\source\repos\Arge\JsonSerializeDeserialize\bin\Debug\net6.0\JsonSerializeDeserialize.runtimeconfig.json
+C:\Users\ozdem\source\repos\Arge\JsonSerializeDeserialize\bin\Debug\net6.0\JsonSerializeDeserialize.dll
+C:\Users\ozdem\source\repos\Arge\JsonSerializeDeserialize\bin\Debug\net6.0\ref\JsonSerializeDeserialize.dll
+C:\Users\ozdem\source\repos\Arge\JsonSerializeDeserialize\bin\Debug\net6.0\JsonSerializeDeserialize.pdb
+C:\Users\ozdem\source\repos\Arge\JsonSerializeDeserialize\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ozdem\source\repos\Arge\JsonSerializeDeserialize\obj\Debug\net6.0\JsonSerializeDeserialize.csproj.CopyComplete
+C:\Users\ozdem\source\repos\Arge\JsonSerializeDeserialize\obj\Debug\net6.0\JsonSerializeDeserialize.dll
+C:\Users\ozdem\source\repos\Arge\JsonSerializeDeserialize\obj\Debug\net6.0\ref\JsonSerializeDeserialize.dll
+C:\Users\ozdem\source\repos\Arge\JsonSerializeDeserialize\obj\Debug\net6.0\JsonSerializeDeserialize.pdb
+C:\Users\ozdem\source\repos\Arge\JsonSerializeDeserialize\obj\Debug\net6.0\JsonSerializeDeserialize.genruntimeconfig.cache
